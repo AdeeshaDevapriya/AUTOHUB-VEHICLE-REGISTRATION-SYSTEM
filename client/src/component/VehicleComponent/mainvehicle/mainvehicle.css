@@ -1,0 +1,33 @@
+.imgsint4 {
+    width: 40%;
+    cursor: pointer;
+}
+.imgsint333 {
+    width: 100%;
+    cursor: relative;
+}
+
+.imgsint444 {
+    width: 100%;
+    cursor: relative;
+}
+
+
+body {
+    font-family: "Lucida Console", "Copperplate", monospace;
+    text-align: center;
+      background-color: rgb(69, 240, 89);
+
+    }
+
+    h1{
+        color: rgb(255, 255, 255);
+        text-align: right;
+    }
+    p1{
+        color: rgb(255, 255, 255);
+        text-align: right;
+
+    }
+    
+
